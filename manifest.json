@@ -1,0 +1,16 @@
+{
+  "name": "BidReady",
+  "description": "Propose Your Best Work with BidReady - Create Winning Proposals with Ease!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+    "48": "assets/48.png",
+    "72": "assets/72.png",
+    "96": "assets/96.png",
+    "144": "assets/144.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Generate Winning Proposals with Ease"
+  }
+}
